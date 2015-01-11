@@ -1,3 +1,7 @@
+##Instructions:
+1. Download the files and load the dataset using tidy_data.R script
+2. For plotting, Plot1 run the script "Plot1.R". Similarly plot2, plot3, plot4 are done using scripts - "Plot2.R", "Plot2.R", "Plot3.R"
+
 ## Introduction
 
 This assignment uses data from
@@ -111,4 +115,5 @@ The four plots that you will need to construct are shown below.
 ### Plot 4
 
 ![plot of chunk unnamed-chunk-5](figure/unnamed-chunk-5.png) 
+
 
